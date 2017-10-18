@@ -1,0 +1,26 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "I am demonstrating npm",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilyAShaw/People_Zoo.git"
+  },
+  "keywords": [
+    "rainbow"
+  ],
+  "author": "Emily Shaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilyAShaw/People_Zoo/issues"
+  },
+  "homepage": "https://github.com/EmilyAShaw/People_Zoo#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
